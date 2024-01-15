@@ -1,0 +1,4 @@
+venv/
+gazeta_test.jsonl
+gazeta_train.jsonl
+gazeta_val.jsonl
