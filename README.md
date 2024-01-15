@@ -1,7 +1,7 @@
 # Flan Summary
 
 ## Description
-Here I creating flan-t5 summarizer.
+Here I creating flan-t5 summarizer. The main goal is to create a lightweight bot for summarizing text.
 
 
 ## Dataset
